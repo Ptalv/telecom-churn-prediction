@@ -4,4 +4,4 @@ Proyecto de Machine Learning para predecir la baja de clientes (churn) en una em
 ## 📂 Notebooks
 - [01 – Análisis Exploratorio y Plan](Notebooks/01_eda_plan.ipynb)  
 - [02 – Generación del Modelo](Notebooks/02_modelado.ipynb)  
-- [03 – Resultados](Notebooks/03_resultados.ipynb) 
+- [03 – Resultados](Notebooks/03_resultados.ipynb)  
