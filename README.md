@@ -17,5 +17,5 @@ El modelo final alcanzó los siguientes resultados en el conjunto de prueba:
 
 La siguiente gráfica muestra la curva ROC del modelo optimizado:
 
-![Curva ROC](Notebooks/roc_curve_proba.png)
+![Curva ROC](telecom-churn-prediction/Notebooks/roc_curve_proba.png)
 
