@@ -5,3 +5,15 @@ Proyecto de Machine Learning para predecir la baja de clientes (churn) en una em
 - [01 – Análisis Exploratorio y Plan](Notebooks/01_eda_plan.ipynb)  
 - [02 – Generación del Modelo](Notebooks/02_modelado.ipynb)  
 - [03 – Resultados](Notebooks/03_resultados.ipynb)  
+
+
+Resultados
+El modelo final alcanzó los siguientes resultados en el conjunto de prueba:
+
+- **AUC-ROC:** 0.91  
+- **F1 Score:** 0.73  
+- **Accuracy:** 0.87  
+
+La siguiente gráfica muestra la curva ROC del modelo optimizado:
+
+![Curva ROC](Notebooks/roc_curve.png)
